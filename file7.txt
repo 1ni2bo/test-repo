@@ -1,1 +1,2 @@
 added file7.txt feature2
+added new lines to file7.txt
